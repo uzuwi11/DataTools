@@ -10,4 +10,4 @@ https://github.com/LykosAI/StabilityMatrix
 
 # IDE Coding
 
-Trae IDE
+https://traeide.com/
