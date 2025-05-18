@@ -7,3 +7,7 @@ https://pinokio.computer/
 # Stable diffusion / Image generation
 
 https://github.com/LykosAI/StabilityMatrix
+
+# IDE Coding
+
+Trae IDE
